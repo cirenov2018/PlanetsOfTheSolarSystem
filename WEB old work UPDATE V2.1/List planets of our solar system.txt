@@ -1,0 +1,9 @@
+planets of the solar system
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune

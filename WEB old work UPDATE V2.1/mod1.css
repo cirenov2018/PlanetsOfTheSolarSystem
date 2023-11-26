@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: black;
+}
+.navigation {
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+    background-color: black;
+    color: tomato;
+    
+    
+
+}
+a {
+    background-color: snow;
+    color: tomato;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    margin: 25px;
+}
+.navigation.section {
+    background-color: white;
+    color: black;
+    font-size: 2px;
+
+}
