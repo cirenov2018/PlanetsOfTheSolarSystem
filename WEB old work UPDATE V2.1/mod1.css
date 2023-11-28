@@ -26,3 +26,9 @@ a {
     font-size: 2px;
 
 }
+
+.container {
+    margin: 20px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
