@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: #00000021;
+}
+.navigation {
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+    background-color: black;
+    color: tomato;
+
+
+
+}
+a {
+    background-color: snow;
+    color: tomato;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    margin: 25px;
+}
+.navigation.section {
+    background-color: white;
+    color: black;
+    font-size: 2px;
+
+}
+
+.container {
+    margin: 20px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.IMGS {
+  background-position: right;
+}
+.Note {
+  background-color: snow;
+  color: tomato;
+  margin: 20px;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+details {
+  background-color: snow;
+  color: black;
+  margin: 5px;
+  font-size: auto;
+  font-family: 'Times New Roman', Times, serif;
+}
