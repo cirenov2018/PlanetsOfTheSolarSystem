@@ -1,0 +1,42 @@
+.BG_Image {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.JustDIV {
+  margin: 20px;
+  background-color: linear-gradient (0deg, red, yellow);
+  background-attachment: fixed;
+}
+body.BG_Gradinent {
+  background-color: #85FFBD;
+  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+  background-repeat: repeat-y;
+
+
+}
+body#BG_Grad_Neptune {
+  background-color: #209fea;
+  background-image: linear-gradient(45deg, #209fea 0%, #5cf0e3 50%, #3e96cf 100%);
+
+}
+body.BG_Imgage {
+  background-attachment: fixed;
+  background-image: url('../SolarSysPlanets/Solar_System_No-Titles.jpg');
+
+}
+form input {
+  margin-left: 30px;
+}
+form label {
+  align-content: center;
+}
+body img {
+  background-size: cover;
+}
+
+div.description {
+  background-size: cover;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+
+}

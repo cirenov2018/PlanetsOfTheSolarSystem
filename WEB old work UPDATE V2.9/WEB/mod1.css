@@ -1,0 +1,98 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: #00000021;
+}
+.navigation-bg {
+    margin: 10px;
+    background-color: gold;
+    background-size: 30px;
+}
+.navigation-fg {
+  margin: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 120%;
+  background-color: tomato;
+  background-size: 20px
+}
+a {
+    background-color: snow;
+    color: tomato;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    margin: 25px;
+}
+.navigation.section {
+    background-color: white;
+    color: black;
+    font-size: 2px;
+
+}
+
+.container {
+    margin: 20px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.IMGS {
+  background-position: right;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  back
+}
+.Note {
+  background-color: snow;
+  color: tomato;
+  margin: 20px;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+details {
+  background-color: snow;
+  color: black;
+  margin: 5px;
+  font-size: auto;
+  font-family: 'Times New Roman', Times, serif;
+}
+.div {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: auto;
+	margin: 5px;
+	color: black;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-size: contain;
+	background-color: sand;
+
+}
+#WhiteOnGrey {
+
+  background-color: #B8B8B8;
+
+  color: white;
+  margin: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+#TomatoOnGrey {
+
+  background-color: #B8B8B8;
+
+  color: tomato;
+  margin: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+TomatoOnWhite {
+
+  background-color: white;
+
+  color: tomato;
+  margin: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
